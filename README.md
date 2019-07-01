@@ -1,7 +1,7 @@
 # DeepGtaPrediction
-Simple tools that I used to generate and run a car distance and speed prediction model with VPilot and DeepGTAV.
+Code that I used to generate and run a car distance and speed prediction model with VPilot and DeepGTAV.
 
-## Requirements
+# Requirements
 1. [DeepGTAV](https://github.com/ai-tor/DeepGTAV) must be installed and [VPilot](https://github.com/cpgeier/VPilot) must be in the same folder.
 
 2. Python enviroment with:
@@ -10,3 +10,6 @@ Simple tools that I used to generate and run a car distance and speed prediction
 - Tensorflow 1.18
 - Keras 2.1.2
 - Numpy 1.13.3
+
+# Credits
+This work was inspired by: https://arxiv.org/abs/1706.08442
